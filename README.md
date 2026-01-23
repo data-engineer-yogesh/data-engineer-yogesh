@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm yogesh</h1>
-<h3 align="center">⚡ I'm a self-taught data engineer</h3>
+<h1 align="center">Hi, I'm yogesh</h1>
+<h3 align="center">I'm a self-taught data engineer</h3>
 
 A little bit about myself
 
