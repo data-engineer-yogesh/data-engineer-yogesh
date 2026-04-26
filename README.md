@@ -45,21 +45,23 @@ My focus areas:
 
 ## 🚀 Featured Projects
 
-### 1. Real-Time Wikipedia Streaming Pipeline
+### 1. Car Data Lakehouse
+In this project, I will build a complete Data Lakehouse from scratch using Databricks and the Medallion Architecture  
+🔗 [View Project](https://github.com/data-engineer-yogesh/car-data-lakehouse)
+
+### 2. Real-Time Wikipedia Streaming Pipeline
 Real-time streaming data pipeline using Spark Structured Streaming.  
 🔗 [View Project](https://github.com/data-engineer-yogesh/real-time-wikipedia-streaming-pipeline)
 
-### 2. Brazilian E-commerce Data Lake ETL Pipeline
+### 3. Brazilian E-commerce Data Lake ETL Pipeline
 End-to-end ETL pipeline using Medallion Architecture.  
 🔗 [View Project](https://github.com/data-engineer-yogesh/brazilian_ecommerce_data_lake_etl_pipeline)
 
-### 3. Clinical Trials Analytics
+### 4. Clinical Trials Analytics
 Healthcare analytics pipeline built with Spark SQL and Delta Lake.  
 🔗 [View Project](https://github.com/data-engineer-yogesh/ongoing-clinical-trials-analytics)
 
-### 4. Soil Health Nutrient Monitoring Lakehouse
-Delta Lakehouse architecture project for agricultural analytics.  
-🔗 [View Project](https://github.com/data-engineer-yogesh/SoilHealthNutrientMonitoringDeltaLakehouseLab)
+
 ---
 
 ## 📫 Connect With Me
