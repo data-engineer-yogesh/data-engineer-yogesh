@@ -53,13 +53,7 @@ In this project, I will build a complete Data Lakehouse from scratch using Datab
 Real-time streaming data pipeline using Spark Structured Streaming.  
 🔗 [View Project](https://github.com/data-engineer-yogesh/real-time-wikipedia-streaming-pipeline)
 
-### 3. Brazilian E-commerce Data Lake ETL Pipeline
-End-to-end ETL pipeline using Medallion Architecture.  
-🔗 [View Project](https://github.com/data-engineer-yogesh/brazilian_ecommerce_data_lake_etl_pipeline)
 
-### 4. Clinical Trials Analytics
-Healthcare analytics pipeline built with Spark SQL and Delta Lake.  
-🔗 [View Project](https://github.com/data-engineer-yogesh/ongoing-clinical-trials-analytics)
 
 
 ---
