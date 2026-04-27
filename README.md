@@ -19,7 +19,7 @@
 
 Data Engineering
 - Apache Spark
-- Spark SQL
+- PySpark
 - Delta Lake
 - Databricks
 
